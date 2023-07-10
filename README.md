@@ -1,4 +1,4 @@
 # musictest
 音乐文件test
 
-version 1
+version 2
